@@ -1,16 +1,22 @@
-## Hi there 👋
+<div align="center">
+<h1 align="center">Hello there! I'm Bruno </a> 👋</h1>
+</div>
 
-<!--
-**Brunogarti/Brunogarti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner_compressed](https://github.com/user-attachments/assets/fc954383-0f62-4f5f-b62d-8e88cc7392d4)
 
-Here are some ideas to get you started:
+<div align="center">
+<h1 align="center"> About me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <a href="https://www.linkedin.com/in/bruno-jair-garcía-tinoco-8b0419194" rel="nofollow noreferrer">
+    <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> Bruno Jair García Tinoco
+  </a> &nbsp; 
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/Brunogarti">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Brunogarti&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Brunogarti&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
