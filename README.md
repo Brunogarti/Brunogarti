@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hello there! I'm Bruno </a> 👋</h1>
+<h1 align="center">Hello there! </a> 👋</h1>
 </div>
 
 ![Banner_compressed](https://github.com/user-attachments/assets/fc954383-0f62-4f5f-b62d-8e88cc7392d4)
